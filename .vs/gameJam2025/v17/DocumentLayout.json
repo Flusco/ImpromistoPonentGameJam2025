@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hugui\\gameJam2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{114F10BC-B6C2-2FDE-2D31-9B98B10D19C2}|Assembly-CSharp.csproj|c:\\users\\hugui\\gamejam2025\\assets\\scripts\\menu\\videoendscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114F10BC-B6C2-2FDE-2D31-9B98B10D19C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\videoendscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114F10BC-B6C2-2FDE-2D31-9B98B10D19C2}|Assembly-CSharp.csproj|c:\\users\\hugui\\gamejam2025\\assets\\scripts\\ui\\showtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114F10BC-B6C2-2FDE-2D31-9B98B10D19C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\showtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114F10BC-B6C2-2FDE-2D31-9B98B10D19C2}|Assembly-CSharp.csproj|C:\\Users\\hugui\\gameJam2025\\assets\\scripts\\ui\\lifeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114F10BC-B6C2-2FDE-2D31-9B98B10D19C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\lifeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114F10BC-B6C2-2FDE-2D31-9B98B10D19C2}|Assembly-CSharp.csproj|C:\\Users\\hugui\\gameJam2025\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114F10BC-B6C2-2FDE-2D31-9B98B10D19C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114F10BC-B6C2-2FDE-2D31-9B98B10D19C2}|Assembly-CSharp.csproj|C:\\Users\\hugui\\gameJam2025\\assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114F10BC-B6C2-2FDE-2D31-9B98B10D19C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "videoEndScene.cs",
+              "DocumentMoniker": "C:\\Users\\hugui\\gameJam2025\\Assets\\Scripts\\menu\\videoEndScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\menu\\videoEndScene.cs",
+              "ToolTip": "C:\\Users\\hugui\\gameJam2025\\Assets\\Scripts\\menu\\videoEndScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\menu\\videoEndScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T15:47:23.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "showText.cs",
+              "DocumentMoniker": "C:\\Users\\hugui\\gameJam2025\\Assets\\Scripts\\UI\\showText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\showText.cs",
+              "ToolTip": "C:\\Users\\hugui\\gameJam2025\\Assets\\Scripts\\UI\\showText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\showText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:53:23.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lifeUI.cs",
+              "DocumentMoniker": "C:\\Users\\hugui\\gameJam2025\\Assets\\Scripts\\UI\\lifeUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\lifeUI.cs",
+              "ToolTip": "C:\\Users\\hugui\\gameJam2025\\Assets\\Scripts\\UI\\lifeUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\lifeUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:53:16.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\hugui\\gameJam2025\\Assets\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
+              "ToolTip": "C:\\Users\\hugui\\gameJam2025\\Assets\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T23:54:02.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\hugui\\gameJam2025\\Assets\\Scripts\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMovement.cs",
+              "ToolTip": "C:\\Users\\hugui\\gameJam2025\\Assets\\Scripts\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyMovement.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:22:19.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

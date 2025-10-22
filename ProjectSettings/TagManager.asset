@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Bullet
+  - Coin
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Object
+  - Death
+  - Player
+  - Coin
+  - Bullet
+  - Final
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: fondo
+    uniqueID: 1801496149
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bus
+    uniqueID: 2520058135
+    locked: 0
+  m_RenderingLayers:
+  - Default
